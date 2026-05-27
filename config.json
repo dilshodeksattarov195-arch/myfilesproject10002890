@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsncrypt",
+        "uuid": 9178640,
+        "checksum": "qnfmqg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
